@@ -1,0 +1,11 @@
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
