@@ -9,3 +9,5 @@ D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\Hell
 D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
 D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Coding corner\C# Practice\Masterclass\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
